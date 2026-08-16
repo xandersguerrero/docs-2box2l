@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-os62bv.biggamingwin.xyz/sitemap.xml
